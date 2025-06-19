@@ -1,6 +1,6 @@
 #  Semantic Image Segmentation with U-Net vs DeepLabV3+
 
-This repository contains my image segmentation project where I implemented, trained, and evaluated two popular deep learning models — **U-Net** and **DeepLabV3+** —on a subset of the COCO 2017 dataset. The focus was on multi-class semantic segmentation for classes: `cake`, `car`, `dog`, and `person`.
+This repository contains my image segmentation project where I implemented, trained, and evaluated two popular deep learning models  **U-Net** and **DeepLabV3+** on a subset of the COCO 2017 dataset. The focus was on multi-class semantic segmentation for classes: `cake`, `car`, `dog`, and `person`.
 
 
 ##  Project Overview
